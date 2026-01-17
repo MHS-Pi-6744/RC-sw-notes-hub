@@ -1,4 +1,4 @@
-# Robot software management strategy
+# Robot software management strategy - Needs an update for RC2
 - **main** - The all correct version of robot software - will be saved at the end of the target robot's usefull life
 - **develop** branch off **main** -
 - **comp** branch off **main** - The branch to use during competition and events. A correct branch with some modifications made and tested during competion. 
